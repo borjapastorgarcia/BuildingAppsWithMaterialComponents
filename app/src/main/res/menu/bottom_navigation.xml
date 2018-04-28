@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/category_clothing"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_vd_theme_24"
+        android:title="@string/shr_category_clothing" />
+    <item
+        android:id="@+id/category_home"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/ic_shrine_vd_theme_24"
+        android:title="@string/shr_category_home" />
+    <item
+        android:id="@+id/category_popsicles"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping_cart_vd_theme_24"
+        android:title="@string/shr_category_popsicles" />
+</menu>

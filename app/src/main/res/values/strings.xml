@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Building Beautiful Apps Faster with Material Components on Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_xxa">xxa</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="shr_product_category">Best Gifts for Teen Girls</string>
+    <string name="shr_product_description">
+        Choose fun, exciting, and unique gifts every girl with love.
+    </string>
+    <string name="shr_category_clothing">Clothing</string>
+    <string name="shr_category_home">Home</string>
+    <string name="shr_category_popsicles">Popsicles</string>
+</resources>
